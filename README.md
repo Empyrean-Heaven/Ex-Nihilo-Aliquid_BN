@@ -97,7 +97,7 @@ Explanation: For a bit of STAMINA, give a creature the DOWNED effect for 10 seco
 
 Description: Induce a state of crippling self-doubt in another, stopping them dead in their tracks and locking their limbs.
 
-Explanation: For a hefty amount FATIGUE, incapacitate a creature for at mininum 10 seconds and at maximum 60 seconds.
+Explanation: For a hefty amount of FATIGUE, incapacitate a creature for at mininum 10 seconds and at maximum 60 seconds.
 
 [Δ]Cat Out Of The Bag
 
