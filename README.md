@@ -17,5 +17,11 @@ Let me just say that if you persist in the orthodox method, a very good reward l
 ### Individual Powers (Detailed)
 • Natalist
 [Δ]One Small Step
+
 Description: The first step on your mental cultivation journey. Cast to begin. You start from Natalist and progress as follows. Natalist, Solipsist, Positivist, Absurdist, Abstractionist, and Idealist.
-Explanation: As elucidated, one must cast this to begin their mental cultivatuon journey.
+
+[Δ]As Strong As The Weakest Link
+
+Description: The chain is only as strong as its weakest link. No weak links shall exist in your whole. This spell evens out the damage on your limbs equally.
+
+• Solipsist
