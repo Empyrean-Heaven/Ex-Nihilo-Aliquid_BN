@@ -72,3 +72,49 @@ Explanation: Receive a decent morale buff for a bit of FATIGUE.
 Description: Why limit yourself to this world? Receive news from every corner of existence!
 
 Explanation: Exchange a bit of STAMINA for a piece of paper containing one of twenty possible snippets from other worlds, e.g. 'Jerry, I think I figured it out. The professor mentioned something along the lines of infinite decadence and universal, nay, multiversal grime, right? What I am getting at is, hey, do you remember all those pens I lost? They may have traversed to a different universe where an infinite number of lost pens congregate. Think about it.'
+
+[Δ]Rapturous Transport
+
+Description: By making eye contact with another, you can delude them into perceiving you as itself, and vice versa. This leads to an inevitable displacement of locations.
+
+Explanation: By consuming a huge chunk of STAMINA, change locations with another creature.
+
+[Δ]A Truman Realization
+
+Description: Blink once, and everyone is gone. Blink twice, and now everyone is your friend. For ten seconds, that is.
+
+Explanation: By gaining a lot of FATIGUE, give everyone the BLIND effect for a single second in an AOE of 10, and make everyone caught in this spell friendly towards you for 10 seconds. Be warned, powerful monsters may be unaffected.
+
+[Δ]Asymmetrical Geometry
+
+Description: The asymmetry of another may be made glaring by your focus upon it. This causes their own flesh to convulse and malform which leads to stunted movement.
+
+Explanation: For a bit of STAMINA, give a creature the DOWNED effect for 10 seconds.
+
+• Abstractionist •
+
+[Δ]Doubtful Mire
+
+Description: Induce a state of crippling self-doubt in another, stopping them dead in their tracks and locking their limbs.
+
+Explanation: For a hefty amount FATIGUE, incapacitate a creature for at mininum 10 seconds and at maximum 60 seconds.
+
+[Δ]Cat Out Of The Bag
+
+Description: A cat has colors, right? Shapes too, right? Good enough! The colors and shapes of the world bleed into the form of a fluffy cat.
+
+Explanation: For a small amount of STAMINA, summon a tabby cat for a minimum of 10 seconds and a maximum of 60 seconds.
+
+[Δ]Wealth Beyond Measure
+
+Description: As fiat money is, in effect, whatever both parties agree on, we can agree that I have a lot of money!
+
+Explanation: For a modest amount of FATIGUE, summon a cash card for 10 seconds filled with a random amount of money.
+
+• Idealist •
+
+[Δ]Therapeutic Decomposition
+
+Description: Perform a direct assault against another's mind. Let it slowly wither and crumble. And when the mind dies, the body is soon to follow.
+
+Explanation: For a lot of FATIGUE, shave off 10 HP per second for a minimum of 10 seconds to a maximum of 60 seconds. This sequential damage bypasses all armor for it directly attacks one's sense of being.
