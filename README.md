@@ -15,7 +15,7 @@ However, even this may take a long time. At which case the player may choose to 
 
 Let me just say that if you persist in the orthodox method, a very good reward lies at the end of the road. The unorthodox method grants a similar reward, but it is far inferior in quality.
 ### Individual Powers (Detailed)
-• Natalist
+• Natalist •
 
 [Δ]One Small Step
 
@@ -25,7 +25,7 @@ Description: The first step on your mental cultivation journey. Cast to begin. Y
 
 Description: The chain is only as strong as its weakest link. No weak links shall exist in your whole. This spell evens out the damage on your limbs equally.
 
-• Solipsist
+• Solipsist •
 
 [Δ]No Pain No Gain
 
@@ -45,8 +45,30 @@ Description: A dazed or stunned self may be restored by a little jolly tune.
 
 Explanation: Remove the DAZED and STUNNED effects from the self for a bit of FATIGUE.
 
-• Positivist
+• Positivist •
 
+[Δ]Dauntless Essence-Function
 
+Description: The mind and body do not play by different rules. If the mind be pristine, so too must be the physique. Blood shall flow no more from your injuries.
 
+[Δ]As It Should Be
 
+Description: Alien entities may wantonly infect your flesh if not careful. Purge your body of impurities like parasites and dermatik larvae with this Sequence.
+
+[Δ]Shaed Of Memory Lapse
+
+Description: Finely manipulate the perception of nearby creatures so that they don't remember your presence for five seconds.
+
+[Δ]Perennial Placebo
+
+Description: As all is well that ends well, may as well have some fun at the end of times.
+
+Explanation: Receive a decent morale buff for a bit of FATIGUE.
+
+• Absurdist •
+
+[Δ]Interdimensional Cable
+
+Description: Why limit yourself to this world? Receive news from every corner of existence!
+
+Explanation: Exchange a bit of STAMINA for a piece of paper containing one of twenty possible news from other worlds, e.g., 'Jerry, I think I figured it out. The professor mentioned something along the lines of infinite decadence and universal, nay, multiversal grime, right? What I am getting at is, hey, do you remember all those pens I lost? They may have traversed to a different universe where an infinite number of lost pens congregate. Think about it.'
