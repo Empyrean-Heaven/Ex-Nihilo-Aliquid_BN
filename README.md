@@ -16,6 +16,7 @@ However, even this may take a long time. At which case the player may choose to 
 Let me just say that if you persist in the orthodox method, a very good reward lies at the end of the road. The unorthodox method grants a similar reward, but it is far inferior in quality.
 ### Individual Powers (Detailed)
 • Natalist
+
 [Δ]One Small Step
 
 Description: The first step on your mental cultivation journey. Cast to begin. You start from Natalist and progress as follows. Natalist, Solipsist, Positivist, Absurdist, Abstractionist, and Idealist.
@@ -25,3 +26,27 @@ Description: The first step on your mental cultivation journey. Cast to begin. Y
 Description: The chain is only as strong as its weakest link. No weak links shall exist in your whole. This spell evens out the damage on your limbs equally.
 
 • Solipsist
+
+[Δ]No Pain No Gain
+
+Description: The pangs of the flesh may be unburdened by the stagnation of the soul. Alleviate pain in proportion to your mental reserve capacity.
+
+Explanation: For every point of FATIGUE gained, remove two points of PAIN. Starts with 5 FATIGUE 10 PAIN, ends with 10 FATIGUE 20 PAIN at max level.
+
+[Δ]Running Forever Into The Night
+
+Description: The body may be weary, but so long as the mind holds steady, it can persevere.
+
+Explanation: Gain some FATIGUE to restore a bit of STAMINA.
+
+[Δ]Sonorous Soliloquy
+
+Description: A dazed or stunned self may be restored by a little jolly tune.
+
+Explanation: Remove the DAZED and STUNNED effects from the self for a bit of FATIGUE.
+
+• Positivist
+
+
+
+
