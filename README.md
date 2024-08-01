@@ -117,4 +117,4 @@ Explanation: For a modest amount of FATIGUE, summon a cash card for 10 seconds f
 
 Description: Perform a direct assault against another's mind. Let it slowly wither and crumble. And when the mind dies, the body is soon to follow.
 
-Explanation: For a lot of FATIGUE, shave off 10 HP per second for a minimum of 10 seconds to a maximum of 60 seconds. This sequential damage bypasses all armor for it directly attacks one's sense of being.
+Explanation: For a lot of FATIGUE, shave off 10 HP per second from another for a minimum of 10 seconds to a maximum of 60 seconds. This sequential damage bypasses all armor for it directly attacks one's sense of being.
