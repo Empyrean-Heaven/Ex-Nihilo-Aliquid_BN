@@ -71,4 +71,4 @@ Explanation: Receive a decent morale buff for a bit of FATIGUE.
 
 Description: Why limit yourself to this world? Receive news from every corner of existence!
 
-Explanation: Exchange a bit of STAMINA for a piece of paper containing one of twenty possible news from other worlds, e.g., 'Jerry, I think I figured it out. The professor mentioned something along the lines of infinite decadence and universal, nay, multiversal grime, right? What I am getting at is, hey, do you remember all those pens I lost? They may have traversed to a different universe where an infinite number of lost pens congregate. Think about it.'
+Explanation: Exchange a bit of STAMINA for a piece of paper containing one of twenty possible snippets from other worlds, e.g. 'Jerry, I think I figured it out. The professor mentioned something along the lines of infinite decadence and universal, nay, multiversal grime, right? What I am getting at is, hey, do you remember all those pens I lost? They may have traversed to a different universe where an infinite number of lost pens congregate. Think about it.'
