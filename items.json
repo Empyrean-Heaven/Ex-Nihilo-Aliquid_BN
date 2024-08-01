@@ -1,0 +1,67 @@
+[
+  {
+    "id": "natalist_crystal",
+    "type": "GENERIC",
+    "symbol": "o",
+    "color": "pink",
+    "looks_like": "sapphire",
+    "name": { "str": "[Δ]natalist crystal" },
+    "description": "The precipitation of a mind ascending the staircase of being.",
+    "volume": "5ml",
+    "weight": "1 g",
+    "material": "stone",
+    "flags": [ "TRADER_AVOID" ]
+  },
+  {
+    "id": "solipsist_crystal",
+    "type": "GENERIC",
+    "symbol": "o",
+    "color": "pink",
+    "looks_like": "sapphire",
+    "name": { "str": "[Δ]solipsist crystal" },
+    "description": "The precipitation of a mind ascending the staircase of being.",
+    "volume": "5ml",
+    "weight": "1 g",
+    "material": "stone",
+    "flags": [ "TRADER_AVOID" ]
+  },
+  {
+    "id": "positivist_crystal",
+    "type": "GENERIC",
+    "symbol": "o",
+    "color": "pink",
+    "looks_like": "sapphire",
+    "name": { "str": "[Δ]positivist crystal" },
+    "description": "The precipitation of a mind ascending the staircase of being.",
+    "volume": "5ml",
+    "weight": "1 g",
+    "material": "stone",
+    "flags": [ "TRADER_AVOID" ]
+  },
+  {
+    "id": "absurdist_crystal",
+    "type": "GENERIC",
+    "symbol": "o",
+    "color": "pink",
+    "looks_like": "sapphire",
+    "name": { "str": "[Δ]absurdist crystal" },
+    "description": "The precipitation of a mind ascending the staircase of being.",
+    "volume": "5ml",
+    "weight": "1 g",
+    "material": "stone",
+    "flags": [ "TRADER_AVOID" ]
+  },
+  {
+    "id": "abstractionist_crystal",
+    "type": "GENERIC",
+    "symbol": "o",
+    "color": "pink",
+    "looks_like": "sapphire",
+    "name": { "str": "[Δ]abstractionist crystal" },
+    "description": "The precipitation of a mind ascending the staircase of being.",
+    "volume": "5ml",
+    "weight": "1 g",
+    "material": "stone",
+    "flags": [ "TRADER_AVOID" ]
+  }
+]

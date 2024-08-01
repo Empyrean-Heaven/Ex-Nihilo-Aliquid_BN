@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rare",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [ { "item": "book_natalist", "prob": 5 } ]
+  },
+  {
+    "id": "mansion_books",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [ { "item": "book_natalist", "prob": 10 } ]
+  },
+  {
+    "id": "exotic_books",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [ { "item": "book_natalist", "prob": 10 } ]
+  }
+]

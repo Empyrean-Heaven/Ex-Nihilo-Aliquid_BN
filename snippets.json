@@ -1,0 +1,102 @@
+[
+  {
+    "type": "GENERIC",
+    "id": "absurdist_news",
+    "category": "books",
+    "symbol": ",",
+    "color": "white",
+    "looks_like": "recipe_creepy",
+    "name": { "str": "[Δ]interdimensional news" },
+    "snippet_category": "absurd_news",
+    "description": "A single sheet of paper that contains news from every impossible dimension.",
+    "price": 0,
+    "price_postapoc": 0,
+    "material": "paper",
+    "flags": [ "TRADER_AVOID" ],
+    "weight": "3 g",
+    "volume": "1 ml"
+  },
+  {
+    "type": "snippet",
+    "category": "absurd_news",
+    "text": [
+      {
+        "id": "absurd_news_1",
+        "text": "A recent report by the Institute of Optimal Ontology declares that the dumber one is, the more likely they are to reveal their secrets. Speaking of which, did you know that my aunt Tabby has three left feet? Crazy, I know."
+      },
+      {
+        "id": "absurd_news_2",
+        "text": "A thousand lifetimes have passed and yet I still smile with bliss whenever I meet you. Although you may be a coffee pot in this life, I shall still love you."
+      },
+      {
+        "id": "absurd_news_3",
+        "text": "The newly incumbent leader of our Union has greatly emphasized the need for peace, prosperity, and harmony. He has thus revived an age-old tradition: taxing donkeys."
+      },
+      {
+        "id": "absurd_news_4",
+        "text": "Jerry, I think I figured it out. The professor mentioned something along the lines of infinite decadence and universal, nay, multiversal grime, right? What I am getting at is, hey, do you remember all those pens I lost? They may have traversed to a different universe where an infinite number of lost pens congregate. Think about it."
+      },
+      {
+        "id": "absurd_news_5",
+        "text": "The mayor of our city is a meagre Positivist. My uncle has already reached the level of Absurdist and he is still just a janitor in some random building. The world has gone mad I tell you. Why does he work as a janitor? He could be far greater. He mumbles all day about finding an endless number of pens. Oh, but what do I know. I am but a pathetic Natalist."
+      },
+      {
+        "id": "absurd_news_6",
+        "text": "Hey, I just met you. And this is crazy. But here is my number, ■■■■. So call me maybe. \"The National Paranormal Investigation Agency warns that those who call the number printed may end up in an alternate dimension. Please contact the local NPIA office for immediate destruction of any such papers found with this set of numerals.\""
+      },
+      {
+        "id": "absurd_news_7",
+        "text": "The presence of antimatter denotes the existence of matter. Our professor claimed such a thing to be absurd, but I believe that out there, somewhere, there is a world full of matter."
+      },
+      {
+        "id": "absurd_news_8",
+        "text": "Timothy and Martha just came home and told me all about their vacation. I do not know these people. Who are they. What are they doing in my bunker. It has been years since the fallout. I miss people."
+      },
+      {
+        "id": "absurd_news_9",
+        "text": "Residents of St. Juan de Salsa must evacuate the town as soon as possible. A Class D2 extradimensional creature called a [REDACTED] has entered our world. It may appear harmless but its attacks are vicious. If you are cornered by one, offer it milk and cookies. It may then choose to unbother you."
+      },
+      {
+        "id": "absurd_news_10",
+        "text": "Tibby, I don't think our country is safe. The highest level mentat our nation possesses is a ninety-one year old Abstractionist. I heard rumors that the neighboring state may declare war on us as their Lord Protector has just recently successfully reached the level of Idealist. If possible Tibbikins, please attempt to establish contact with your stepfather. I know you two aren't close, but he is also an Idealist powerhouse. Maybe he can help us."
+      },
+      {
+        "id": "absurd_news_11",
+        "text": "I have to say, this Outer God I summoned is a dimwit. It just gobbles food all day. It swiped my fridge the moment it spotted it, and now it is looking hungrily at me. Does it not know that ever since I achieved the Abstractionist realm, such entities are nothing to me?"
+      },
+      {
+        "id": "absurd_news_12",
+        "text": "According to hearsay, there is another stage beyond that of Idealist. Quite incredible really, because according to ancient records, only one has ever managed to reach it."
+      },
+      {
+        "id": "absurd_news_13",
+        "text": "A random hobo began bounding towards me, drunkenly proclaiming that the martial way was supreme, and that the heretical cultivators of the mind were useless. He performed some funky hand gestures before launching an impressive kick at me. I erased his mind though, so that was the end of that."
+      },
+      {
+        "id": "absurd_news_14",
+        "text": "A creature more machine than man approached me menacingly, babbling incoherently about the Machine God and how his soul was eternal within Him. I wanted to test his statement, so I divided his mind into an infinite number of parts to see what would happen. I heard later that the Machine God gave up a Blue Screen Of Death before succumbing to nothingness. His followers are desperately trying to restart him, all to little avail."
+      },
+      {
+        "id": "absurd_news_15",
+        "text": "The citadel situated in the center of our planet acts as the hub of all mind. Centuries ago, the Supreme Venerable coalesced the divine minds of every Idealist, plundering it for her own ends. Even my own mind is a rental, borrowed from the hub at a rate of seventeen microns per hour."
+      },
+      {
+        "id": "absurd_news_16",
+        "text": "Come on down to Jorksonville's brand new grackery store, the Sikl Lsoa! Receive a coupon for 0.3% off of your next next next purchase! We welcome all kinds of races, even the bad ones! That's right, the Quingee and Donklers can shop without prejudice at our estba!"
+      },
+      {
+        "id": "absurd_news_17",
+        "text": "The more I attune myself with the spirit of the Milky Way, the more I yearn for the view of life beyond it. All 347 planets with life in my galaxy have been observed by me, and I wish to expand my vision farther beyond."
+      },
+      { "id": "absurd_news_18", "text": "For Sale. Bondage Suit. Never Worn." },
+      {
+        "id": "absurd_news_19",
+        "text": "To whom it may concern. Dear reader, it is imperative that our space colony, the Homespun, receive help from the Central Space Administration. Our portion of the universe has been hit with a Type VI disaster and all wormholes have been breached. Due to the copyright protection on all our devices, we cannot reproduce them locally. If we do not establish contact with the CSA within fifteen years, we may devolve into a terrestrial, savage state. Signed, Archduke Urtan Albakan."
+      },
+      {
+        "id": "absurd_news_20",
+        "text": "I was drinking some ale at a tavern when a disheveled grand pure one sat next to me. He looked like he needed a drink, so I ordered him a simple beer. After a few sips, he abruptly confessed something to me. He told me that he messed with time a total of sixty-four times. The timeline has been altered sixty-four times. He mentioned in brief passing that he may have caused a calamity to strike the world. He mumbled something about a Cataclysm. I wonder if I should perform a Quantum Disentanglement to reset the timeline. Who knows what that old codger did."
+      }
+    ]
+  }
+]

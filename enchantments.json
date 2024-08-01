@@ -1,0 +1,48 @@
+[
+  {
+    "type": "enchantment",
+    "id": "ench_natalist",
+    "values": [ { "value": "INTELLIGENCE", "add": 1 }, { "value": "BONUS_DODGE", "add": 1 } ]
+  },
+  {
+    "type": "enchantment",
+    "id": "ench_solipsist",
+    "values": [ { "value": "INTELLIGENCE", "add": 2 } ]
+  },
+  {
+    "type": "enchantment",
+    "id": "ench_positivist",
+    "values": [ { "value": "INTELLIGENCE", "add": 3 }, { "value": "ATTACK_COST", "add": 2 } ]
+  },
+  {
+    "type": "enchantment",
+    "id": "ench_absurdist",
+    "values": [ { "value": "INTELLIGENCE", "add": 4 }, { "value": "ATTACK_COST", "add": 5 }, { "value": "BONUS_DODGE", "add": -1 } ]
+  },
+  {
+    "type": "enchantment",
+    "id": "ench_abstractionist",
+    "values": [ { "value": "INTELLIGENCE", "add": 5 }, { "value": "ATTACK_COST", "add": 10 }, { "value": "BONUS_DODGE", "add": -1 } ]
+  },
+  {
+    "type": "enchantment",
+    "id": "ench_idealist",
+    "values": [ { "value": "INTELLIGENCE", "add": 6 }, { "value": "ATTACK_COST", "add": 20 }, { "value": "BONUS_DODGE", "add": -2 } ]
+  },
+  {
+    "type": "enchantment",
+    "id": "ench_idealist_heal",
+    "values": [ { "value": "INTELLIGENCE", "add": -6 }, { "value": "ATTACK_COST", "add": 60 }, { "value": "BONUS_DODGE", "add": -6 } ],
+    "intermittent_activation": { "effects": [ { "frequency": "11 seconds", "spell_effects": [ { "id": "idealist_inferior_restoration" } ] } ] }
+  },
+  {
+    "type": "enchantment",
+    "id": "ench_perfect_idealist",
+    "values": [ { "value": "INTELLIGENCE", "add": 8 } ]
+  },
+  {
+    "type": "enchantment",
+    "id": "ench_perfect_idealist_heal",
+    "intermittent_activation": { "effects": [ { "frequency": "9 seconds", "spell_effects": [ { "id": "idealist_perfect_restoration" } ] } ] }
+  }
+]

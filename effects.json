@@ -1,0 +1,38 @@
+[
+  {
+    "type": "effect_type",
+    "id": "effect_solipsist_soliloquy",
+    "name": [ "[Δ]Sonorous Soliloquy" ],
+    "desc": [ "A gentle hum resounds within your ears as your mind relaxes." ],
+    "removes_effects": [ "dazed", "stunned" ]
+  },
+  {
+    "type": "effect_type",
+    "id": "effect_positivist_dauntless",
+    "name": [ "[Δ]Dauntless Essence-Function" ],
+    "desc": [ "A tremor thunders through your body as the mind supplants the wounds it sustained." ],
+    "removes_effects": [ "bleed" ]
+  },
+  {
+    "type": "effect_type",
+    "id": "effect_positivist_should",
+    "name": [ "[Δ]As It Should Be" ],
+    "desc": [ "A shudder envelops your selfless body as contaminant organisms are expunged." ],
+    "removes_effects": [ "dermatik", "tapeworm", "bloodworms", "brainworms", "paincysts" ]
+  },
+  {
+    "type": "effect_type",
+    "id": "effect_positivist_shaed",
+    "name": [ "[Δ]Shaed Of Memory Lapse" ],
+    "desc": [ "If a tree fell in the middle of a forest, and everyone witnessed it, but no one remembered it, did it truly ever fall?" ],
+    "flags": [ "EFFECT_INVISIBLE" ]
+  },
+  {
+    "type": "effect_type",
+    "id": "effect_decomposition",
+    "name": [ "[Δ]Decomposition" ],
+    "desc": [ "A direct assault against the mind; and when the mind dies, the body is soon to follow." ],
+    "show_in_info": true,
+    "base_mods": { "hurt_min": [ 10 ] }
+  }
+]

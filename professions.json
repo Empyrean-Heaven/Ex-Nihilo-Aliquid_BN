@@ -1,0 +1,15 @@
+[
+  {
+    "type": "profession",
+    "id": "mentat",
+    "name": "[Δ]Mentat",
+    "description": "After many years, through trials and tribulations, you managed to carefully sculpt your inner world to accommodate the greater mind.",
+    "points": 10,
+    "skills": [ { "level": 4, "name": "speech" } ],
+    "items": {
+      "both": { "items": [ "socks", "dress_shoes", "golf_bag", "book_natalist" ] },
+      "male": [ "boxer_shorts", "tux", "tophat" ],
+      "female": [ "bra", "panties", "gown", "jade_brooch" ]
+    }
+  }
+]

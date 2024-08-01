@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "exnihiloaliquid",
+    "name": "<color_white>[Δ]Ex Nihilo Aliquid</color>",
+    "authors": [ "Hyojason" ],
+    "description": "Out of nothing, something. This mod introduces a form of mental cultivation that the player may practice to achieve unparalleled feats.",
+    "version": "1.0",
+    "category": "content",
+    "dependencies": [ "bn" ]
+  }
+]

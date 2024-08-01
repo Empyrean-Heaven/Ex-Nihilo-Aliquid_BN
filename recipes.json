@@ -1,0 +1,123 @@
+[
+  {
+    "type": "recipe",
+    "result": "book_natalist_spell",
+    "category": "CC_NIHILO",
+    "skill_used": "speech",
+    "difficulty": 2,
+    "time": "1200 m",
+    "book_learn": [ [ "book_natalist", 1 ] ],
+    "tools": [ [ [ "survival_marker", 100 ], [ "permanent_marker", 100 ] ] ],
+    "components": [ [ [ "paper", 100 ] ], [ [ "datura_seed", 100 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "page_solipsist",
+    "category": "CC_NIHILO",
+    "skill_used": "speech",
+    "difficulty": 2,
+    "time": "600 m",
+    "book_learn": [ [ "book_natalist", 1 ] ],
+    "tools": [ [ [ "survival_marker", 10 ], [ "permanent_marker", 10 ] ] ],
+    "components": [ [ [ "datura_seed", 10 ] ], [ [ "book_natalist_spell", 1 ] ], [ [ "natalist_crystal", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "book_solipsist_spell",
+    "category": "CC_NIHILO",
+    "skill_used": "speech",
+    "difficulty": 3,
+    "time": "1800 m",
+    "book_learn": [ [ "book_natalist", 1 ] ],
+    "tools": [ [ [ "survival_marker", 100 ], [ "permanent_marker", 100 ] ] ],
+    "components": [ [ [ "paper", 100 ] ], [ [ "datura_seed", 100 ] ], [ [ "page_solipsist", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "page_positivist",
+    "category": "CC_NIHILO",
+    "skill_used": "speech",
+    "difficulty": 3,
+    "time": "900 m",
+    "book_learn": [ [ "book_natalist", 1 ] ],
+    "tools": [ [ [ "survival_marker", 20 ], [ "permanent_marker", 20 ] ] ],
+    "components": [ [ [ "datura_seed", 20 ] ], [ [ "page_solipsist", 1 ] ], [ [ "solipsist_crystal", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "book_positivist_spell",
+    "category": "CC_NIHILO",
+    "skill_used": "speech",
+    "difficulty": 4,
+    "time": "2700 m",
+    "book_learn": [ [ "book_natalist", 1 ] ],
+    "tools": [ [ [ "survival_marker", 100 ], [ "permanent_marker", 100 ] ] ],
+    "components": [ [ [ "paper", 100 ] ], [ [ "datura_seed", 100 ] ], [ [ "page_positivist", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "page_absurdist",
+    "category": "CC_NIHILO",
+    "skill_used": "speech",
+    "difficulty": 4,
+    "time": "1350 m",
+    "book_learn": [ [ "book_natalist", 1 ] ],
+    "tools": [ [ [ "survival_marker", 30 ], [ "permanent_marker", 30 ] ] ],
+    "components": [ [ [ "datura_seed", 30 ] ], [ [ "page_positivist", 1 ] ], [ [ "positivist_crystal", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "book_absurdist_spell",
+    "category": "CC_NIHILO",
+    "skill_used": "speech",
+    "difficulty": 5,
+    "time": "4050 m",
+    "book_learn": [ [ "book_natalist", 1 ] ],
+    "tools": [ [ [ "survival_marker", 100 ], [ "permanent_marker", 100 ] ] ],
+    "components": [ [ [ "paper", 100 ] ], [ [ "datura_seed", 100 ] ], [ [ "page_absurdist", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "page_abstractionist",
+    "category": "CC_NIHILO",
+    "skill_used": "speech",
+    "difficulty": 5,
+    "time": "2025 m",
+    "book_learn": [ [ "book_natalist", 1 ] ],
+    "tools": [ [ [ "survival_marker", 40 ], [ "permanent_marker", 40 ] ] ],
+    "components": [ [ [ "datura_seed", 40 ] ], [ [ "page_absurdist", 1 ] ], [ [ "absurdist_crystal", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "book_abstractionist_spell",
+    "category": "CC_NIHILO",
+    "skill_used": "speech",
+    "difficulty": 6,
+    "time": "6075 m",
+    "book_learn": [ [ "book_natalist", 1 ] ],
+    "tools": [ [ [ "survival_marker", 100 ], [ "permanent_marker", 100 ] ] ],
+    "components": [ [ [ "paper", 100 ] ], [ [ "datura_seed", 100 ] ], [ [ "page_abstractionist", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "page_idealist",
+    "category": "CC_NIHILO",
+    "skill_used": "speech",
+    "difficulty": 6,
+    "time": "3038 m",
+    "book_learn": [ [ "book_natalist", 1 ] ],
+    "tools": [ [ [ "survival_marker", 50 ], [ "permanent_marker", 50 ] ] ],
+    "components": [ [ [ "datura_seed", 50 ] ], [ [ "page_abstractionist", 1 ] ], [ [ "abstractionist_crystal", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "book_idealist_spell",
+    "category": "CC_NIHILO",
+    "skill_used": "speech",
+    "difficulty": 7,
+    "time": "9114 m",
+    "book_learn": [ [ "book_natalist", 1 ] ],
+    "tools": [ [ [ "survival_marker", 100 ], [ "permanent_marker", 100 ] ] ],
+    "components": [ [ [ "paper", 100 ] ], [ [ "datura_seed", 100 ] ], [ [ "page_idealist", 1 ] ] ]
+  }
+]
